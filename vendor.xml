@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+-<carrier_config_list>
+
+
+-<carrier_config>
+
+<boolean value="false" name="carrier_volte_available_bool"/>
+
+<boolean value="false" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="false" name="carrier_vt_available_bool"/>
+
+</carrier_config>
+
+<!--DIGI_MY 50210-->
+
+
+
+-<carrier_config mnc="10" mcc="502">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_default_wfc_ims_enabled_bool"/>
+
+<int value="2" name="carrier_default_wfc_ims_mode_int"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<string name="carrier_vowifi_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--DIGI_MY 50216-->
+
+
+
+-<carrier_config mnc="16" mcc="502">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_default_wfc_ims_enabled_bool"/>
+
+<int value="2" name="carrier_default_wfc_ims_mode_int"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<string name="carrier_vowifi_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--UMOBILE_MY 50218-->
+
+
+
+-<carrier_config mnc="18" mcc="502">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<string name="carrier_vowifi_hd_icon_flag">10101010</string>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="false" name="carrier_default_wfc_ims_enabled_bool"/>
+
+</carrier_config>
+
+<!-- TRUE_TH 52000-->
+
+
+
+-<carrier_config mnc="00" mcc="520">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<boolean value="false" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="true" name="carrier_default_wfc_ims_enabled_bool"/>
+
+<int value="2" name="carrier_default_wfc_ims_mode_int"/>
+
+<string name="carrier_vowifi_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!-- TRUE_TH 52004-->
+
+
+
+-<carrier_config mnc="04" mcc="520">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<boolean value="false" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="true" name="carrier_default_wfc_ims_enabled_bool"/>
+
+<int value="2" name="carrier_default_wfc_ims_mode_int"/>
+
+<string name="carrier_vowifi_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--CELLCOM_MY 50213-->
+
+
+
+-<carrier_config mnc="13" mcc="502">
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--CELLCOM_MY 50219-->
+
+
+
+-<carrier_config mnc="19" mcc="502">
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--SMART_KH 45606-->
+
+
+
+-<carrier_config mnc="06" mcc="456">
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--SEATEL_KH 45611-->
+
+
+
+-<carrier_config mnc="11" mcc="456">
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="false" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!-- WEBE_MY 502153-->
+
+
+
+-<carrier_config mnc="153" mcc="502">
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!-- YES_MY 502152-->
+
+
+
+-<carrier_config mnc="152" mcc="502">
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--DIALOG_LK 41302 -->
+
+
+
+-<carrier_config mnc="02" mcc="413">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="false" name="carrier_wfc_ims_available_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+</carrier_config>
+
+<!--AIS_TH 52003-->
+
+
+
+-<carrier_config mnc="03" mcc="520">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<string name="carrier_vowifi_hd_icon_flag ">10101010</string>
+
+<boolean value="false" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="false" name="carrier_default_wfc_ims_enabled_bool"/>
+
+<int value="1" name="carrier_default_wfc_ims_mode_int"/>
+
+<int value="2" name="carrier_default_wfc_ims_roaming_mode_int"/>
+
+<boolean value="false" name="carrier_wfc_supports_cellular_preferred_bool"/>
+
+<string name="wfc_spn_string">AIS</string>
+
+<string name="wfc_format_wifi_string">%1$s VoWiFi</string>
+
+</carrier_config>
+
+<!--DTAC_TH 52005-->
+
+
+
+-<carrier_config mnc="05" mcc="520">
+
+<boolean value="true" name="carrier_volte_available_bool"/>
+
+<boolean value="true" name="carrier_default_volte_switch_on_bool"/>
+
+<boolean value="true" name="carrier_volte_show_switch_bool"/>
+
+<string name="carrier_volte_hd_icon_flag">10101010</string>
+
+<string name="carrier_vowifi_hd_icon_flag ">10101010</string>
+
+<boolean value="false" name="carrier_wfc_ims_available_bool"/>
+
+<boolean value="true" name="carrier_default_wfc_ims_enabled_bool"/>
+
+</carrier_config>
+
+</carrier_config_list>
